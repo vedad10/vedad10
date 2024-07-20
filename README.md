@@ -14,10 +14,10 @@
     📍 Born and raised in Bosnia and Herzegovina 🇧🇦, I completed my primary and secondary education there. Wanting to broaden my horizons and gain new experiences, I moved to Austria at the age of 18 and began my studies.
   </p>
   <p style="text-align: center;">
-    👨🏽‍💻 I am currently working as a system administrator for Forvis Mazars in Austria.
+    🏛️ I am studying software engineering at the The Vienna University of Technology and am currently nearing the end of my bachelor's studies.👨🏼‍🎓
   </p>
   <p style="text-align: center;">
-    🏛️ I am studying software engineering at the The Vienna University of Technology and am currently nearing the end of my bachelor's studies. 👨🏼‍🎓
+    👨🏽‍💻 I am currently working as a system administrator for Forvis Mazars in Austria.
   </p>
   <p style="text-align: center;">
     🧩 In my spare time, I am interested in penetration testing and data forensics, although I am not the best at it yet.
