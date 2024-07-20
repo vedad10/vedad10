@@ -17,7 +17,7 @@
     👨🏽‍💻 I am currently working as a system administrator for Forvis Mazars in Austria.
   </p>
   <p style="text-align: center;">
-    🏛️ I am studying software engineering at the Technical University of Vienna and am currently nearing the end of my bachelor's studies. 👨🏼‍🎓
+    🏛️ I am studying software engineering at the The Vienna University of Technology and am currently nearing the end of my bachelor's studies. 👨🏼‍🎓
   </p>
   <p style="text-align: center;">
     🧩 In my spare time, I am interested in penetration testing and data forensics, although I am not the best at it yet.
