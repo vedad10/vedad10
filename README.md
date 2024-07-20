@@ -17,7 +17,7 @@
     🏛️ I am studying software engineering at the The Vienna University of Technology and am currently nearing the end of my bachelor's studies.👨🏼‍🎓
   </p>
   <p style="text-align: center;">
-    👨🏽‍💻 I am currently working as a system administrator for Forvis Mazars in Austria.
+    👨🏽‍💻 Currently, I am working as a system administrator for Forvis Mazars in Austria.
   </p>
   <p style="text-align: center;">
     🧩 In my spare time, I am interested in penetration testing and data forensics, although I am not the best at it yet.
@@ -45,7 +45,7 @@
 </div>
  <hr/>
  
-<h2 align="center">👨🏻‍🔧 Programming Languages and Tools I Use 👨🏻‍🔧</h2>
+<h2 align="center">👨🏻‍🔧 Programming Languages and Tools I have used so far👨🏻‍🔧</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,c,python,angular,nodejs,html,css,scss,javascript,typescript,spring" />
