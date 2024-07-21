@@ -58,8 +58,8 @@
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedad10&show_icons=true&theme=radical" alt="Vedad's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedad10&layout=compact&theme=radical" alt="Vedad's Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=vedad10&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5" height="96" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedad10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true" height="96" alt="languages graph"  />
 </div>
 
 <br/>
